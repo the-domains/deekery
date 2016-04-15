@@ -4,8 +4,15 @@
         <description><![CDATA[Deekery]]></description>
         <link>https://thegrid.ai/deekery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 11:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 11:31:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/deekery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ken Robinson: Do schools kill creativity?]]></title>
+            <description><![CDATA[<article><h1>Ken Robinson: Do schools kill creativity?</h1><p>Sir Ken Robinson makes an entertaining and profoundly moving case for creating an education system that nurtures (rather than undermines) creativity.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1d4b7e3-92c9-43ec-8849-8cbf6ef54a03.jpg"></article>]]></description>
+            <link>https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity</link>
+            <guid isPermaLink="false">b1746e40-bbe0-4aff-a0e9-6f883aafa936</guid>
+            <pubDate>Fri, 15 Apr 2016 11:30:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pinboard.in Architecture - Pay to Play to Keep a System Small - High Scalability -]]></title>
             <description><![CDATA[<article><h1>Pinboard.in Architecture - Pay to Play to Keep a System Small - High Scalability -</h1><p>Wednesday, December 29, 2010 at 8:42AM How do you keep a system small enough, while still being successful, that a simple scale-up strategy becomes the preferred architecture? StackOverflow, for example, could stick with a tool chain they were comfortable with because they had a natural brake on how fast they could grow: there are only so many programmers in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3b715715b300bfd4161b1d5c9a2566def4f157d.jpg"></article>]]></description>
