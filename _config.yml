@@ -1,6 +1,6 @@
 name: Deekery
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.16327
 typography_spectrum: 0.27646
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.5798807223327458
-  lightness: 0.44803228438831866
+  lightness: 0.8125
   saturation: 0.1145583491306752
   rhythmicContrast: 0.4188293719198555
 purpose: []
