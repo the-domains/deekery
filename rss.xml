@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Deekery]]></title>
         <description><![CDATA[Deekery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deekery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 07:48:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 11:05:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deekery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pinboard.in Architecture - Pay to Play to Keep a System Small - High Scalability -]]></title>
+            <description><![CDATA[<article><h1>Pinboard.in Architecture - Pay to Play to Keep a System Small - High Scalability -</h1><p>Wednesday, December 29, 2010 at 8:42AM How do you keep a system small enough, while still being successful, that a simple scale-up strategy becomes the preferred architecture? StackOverflow, for example, could stick with a tool chain they were comfortable with because they had a natural brake on how fast they could grow: there are only so many programmers in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3b715715b300bfd4161b1d5c9a2566def4f157d.jpg"></article>]]></description>
+            <link>http://highscalability.com/blog/2010/12/29/pinboardin-architecture-pay-to-play-to-keep-a-system-small.html</link>
+            <guid isPermaLink="false">45f11e93-f0d3-4012-a896-a361ae5d9acd</guid>
+            <pubDate>Fri, 15 Apr 2016 11:04:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI. Fiction.]]></title>
             <description><![CDATA[<h1>AI. Fiction.</h1>]]></description>
-            <link>undefinedai-fiction/index.html</link>
+            <link>https://thegrid.ai/deekery/ai-fiction/index.html</link>
             <guid isPermaLink="false">0bed9edc-1f4b-470a-abe8-26a121ca9bb6</guid>
             <pubDate>Fri, 15 Apr 2016 07:48:52 GMT</pubDate>
         </item>
